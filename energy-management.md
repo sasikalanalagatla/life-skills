@@ -30,7 +30,7 @@
 
 ---
 
-## Question 4: Paraphrase – _Sleep is Your Superpower_
+## Question 4: Paraphrase the Sleep is your Superpower video in your own words in brief. Only the points, no explanation.
 
 - Sleep improves brain performance and memory
 - Increases resistance to illness and chronic diseases
@@ -53,7 +53,7 @@
 
 ---
 
-## Question 6: Paraphrase – _Brain Changing Benefits of Exercise_
+## Question 6: Brain Changing Benefits of Exercise. Minimum 5 points, only the points
 
 - Enhances ability to concentrate and remember things
 - Stimulates the growth of new brain cells and connections
